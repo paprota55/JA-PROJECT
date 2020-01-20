@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\SzyfratorTekstu\SzyfratorTekstu\bin\Debug\SzyfratorTekstu.exe.config
+C:\Users\Admin\source\repos\SzyfratorTekstu\SzyfratorTekstu\bin\Debug\SzyfratorTekstu.exe
+C:\Users\Admin\source\repos\SzyfratorTekstu\SzyfratorTekstu\bin\Debug\SzyfratorTekstu.pdb
+C:\Users\Admin\source\repos\SzyfratorTekstu\SzyfratorTekstu\obj\Debug\SzyfratorTekstu.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\SzyfratorTekstu\SzyfratorTekstu\obj\Debug\SzyfratorTekstu.Form1.resources
+C:\Users\Admin\source\repos\SzyfratorTekstu\SzyfratorTekstu\obj\Debug\SzyfratorTekstu.Properties.Resources.resources
+C:\Users\Admin\source\repos\SzyfratorTekstu\SzyfratorTekstu\obj\Debug\SzyfratorTekstu.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\SzyfratorTekstu\SzyfratorTekstu\obj\Debug\SzyfratorTekstu.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SzyfratorTekstu\SzyfratorTekstu\obj\Debug\SzyfratorTekstu.exe
+C:\Users\Admin\source\repos\SzyfratorTekstu\SzyfratorTekstu\obj\Debug\SzyfratorTekstu.pdb
