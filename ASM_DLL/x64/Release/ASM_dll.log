@@ -1,0 +1,7 @@
+﻿  Assembling ASM.asm...
+     Creating library C:\Users\diablo\Desktop\ROK_III\JA_Projekt_kopia\JA_Projekt\x64\Release\ASM_dll.lib and object C:\Users\diablo\Desktop\ROK_III\JA_Projekt_kopia\JA_Projekt\x64\Release\ASM_dll.exp
+ASM_dll.exp : warning LNK4070: /OUT:ASM.dll directive in .EXP differs from output filename 'C:\Users\diablo\Desktop\ROK_III\JA_Projekt_kopia\JA_Projekt\x64\Release\ASM_dll.dll'; ignoring directive
+  LINK : /LTCG specified but no code generation required; remove /LTCG from the link command line to improve linker performance
+ASM_dll.exp : warning LNK4070: /OUT:ASM.dll directive in .EXP differs from output filename 'C:\Users\diablo\Desktop\ROK_III\JA_Projekt_kopia\JA_Projekt\x64\Release\ASM_dll.dll'; ignoring directive
+  ASM_dll.vcxproj -> C:\Users\diablo\Desktop\ROK_III\JA_Projekt_kopia\JA_Projekt\x64\Release\ASM_dll.dll
+  ASM_dll.vcxproj -> C:\Users\diablo\Desktop\ROK_III\JA_Projekt_kopia\JA_Projekt\x64\Release\ASM_dll.pdb (Full PDB)
